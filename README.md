@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Developer+%7C+IT+Undergraduate;Exploring+DevSecOps+%26+Network+Security;Building+Secure+Applications" alt="Animated typing introduction" />
 
-**Cybersecurity Enthusiast | Developer | IT Undergraduate**
+**Cyber Security Undergraduate | Ethical Hacker**
 
-I'm passionate about **Cybersecurity, Web Development, Network Security and DevSecOps**.
+I'm passionate about **Cyber Security, Network Security and DevSecOps**.
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://heshitha73.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heshitha73)
