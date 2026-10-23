@@ -2,7 +2,7 @@
 
 # Hi, I'm Heshitha Prabhashana 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+DevSecOps+%26+Network+Security;Building+Secure+Applications" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Exploring+DevSecOps+%26+Network+Security;Building+Secure+Applications" alt="Animated typing introduction" />
 
 **Cyber Security Undergraduate | Ethical Hacker**
 
