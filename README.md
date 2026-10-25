@@ -37,7 +37,8 @@ I'm passionate about **Cyber Security, Network Security and DevSecOps**.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**🎯 Interests:** Penetration Testing • Network Security • DevSecOps
+**🎯 Interests:** 
+Penetration Testing | Network Security | DevSecOps
 
 ---
 
