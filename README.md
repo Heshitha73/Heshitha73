@@ -61,17 +61,6 @@ A multi-client TCP/IP system with salted password hashing, session tokens, rate 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Heshitha73&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshitha73&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
